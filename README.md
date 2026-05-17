@@ -5,8 +5,8 @@
 
 **ساخت و استقرار یک Cloudflare Worker بدون نیاز به دسترسی به داشبورد کلودفلر**
 
-[![Stars](https://img.shields.io/github/stars/Aporis3674/My-worker?style=social)](https://github.com/Aporis3674/My-worker)
-[![Forks](https://img.shields.io/github/forks/Aporis3674/My-worker?style=social)](https://github.com/Aporis3674/My-worker)
+[![Stars](https://img.shields.io/github/stars/Aporis3674/My-worker?style=plastic&color=orange)](https://github.com/Aporis3674/My-worker)
+[![Forks](https://img.shields.io/github/forks/Aporis3674/My-worker?style=plastic&color=blueviolet)](https://github.com/Aporis3674/My-worker)
 
 </div>
 
