@@ -79,11 +79,7 @@ wrangler deploy
 ```toml
 name = "my-worker"
 main = "src/worker.js"
-compatibility_date = "2024-01-01"
-account_id = "ACCOUNT_ID_FROM_CLOUDFLARE"
-
-[observability]
-enabled = true
+compatibility_date = "2026-05-13"
 ```
 
 ## 📝 نمونه کد Worker
