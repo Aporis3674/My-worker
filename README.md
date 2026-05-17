@@ -1,4 +1,4 @@
-```markdown
+
 # My-worker 🚀
 
 <div align="center">
